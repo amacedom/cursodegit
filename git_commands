@@ -24,3 +24,31 @@ apuntador especial HEAD
 git brnach -m nuevobranch oldname
 cambiar el nombre del branch 
 
+master es intocable
+
+features si tu bug esta en develop es un feature branch
+si tu bug esta en produccion es un hotfix
+support son branches auxiliares fuera del ciclo principal
+
+git stash los cambios que tengo guardalos en un stash de mientras
+
+git flow init master
+
+VERSIONADO SEMANTICO
+
+major cambios muy drasticos
+minor mantiene la misma api, cambios muy basicos
+patch se arregla algo de la version actual 
+
+git tag -a v1.1.0
+
+git reverse anulando los cambios que habia 
+
+git tag
+
+
+git revert 
+
+
+
+
