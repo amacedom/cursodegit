@@ -1,0 +1,19 @@
+Comando de git 
+
+git log -n1 -p <numero de commit> 
+te da los cambios y la informacion sobre ese commit 
+-n1 es dame 1 solo commit 
+-p es para indicar el id del commit
+
+git diff <file1> <file2>
+
+Usar keynote para mac 
+
+git commit -patch
+
+git add 
+
+carpeta .git en directory le dice que hay un directory padre 
+
+git reset . 
+Es para quitar las cosas del STAGE, todo lo que no se ha dado commit 
