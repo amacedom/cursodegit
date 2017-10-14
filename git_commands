@@ -24,3 +24,4 @@ apuntador especial HEAD
 git brnach -m nuevobranch oldname
 cambiar el nombre del branch 
 
+git reset --hard | --soft <id de commit>
