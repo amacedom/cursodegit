@@ -17,3 +17,10 @@ carpeta .git en directory le dice que hay un directory padre
 
 git reset . 
 Es para quitar las cosas del STAGE, todo lo que no se ha dado commit 
+
+apuntadores - estan apuntando a un commit 
+apuntador especial HEAD 
+
+git brnach -m nuevobranch oldname
+cambiar el nombre del branch 
+
